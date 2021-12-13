@@ -8,6 +8,24 @@
 
 <p>It has passed all the test cases and also generated the allure report</p>
 
+### git commands
+
+
+#### To clone repository
+```
+git clone https://github.com/farashaa/RahulShetty.git
+```
+
+#### To fetch
+```
+git fetch
+```
+
+#### To pull
+```
+git pull
+```
+
 ### commands to run in cmd
 
 npm install
