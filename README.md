@@ -28,8 +28,17 @@ git pull
 
 ### commands to run in cmd
 
+#### To install node_modules
+```
 npm install
+```
 
+#### To run the test
+```
 npm run wdio
+```
 
+#### To generate report
+```
 npm run report
+```
